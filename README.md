@@ -1,2 +1,2 @@
-# jabez
-Um repositório pada arquivos relacionados ao Jabez. :)
+# Jabez
+Um repositório pada depósito de arquivos relacionados ao Jabez. :)
